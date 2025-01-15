@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "npx @11ty/eleventy"
+    "generate": "npx @11ty/eleventy",
+    "start": "npx eleventy --serve"
   },
   "keywords": [],
   "author": "",
